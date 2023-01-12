@@ -10,5 +10,5 @@ Installation steps:
 4. That's it!!! Enjoy!!!
 
 !!!IMPORTANT!!!
-So, if you have downloaded the last version of the game incorrectly, your antivirus has most probaby blocked
-the game. In order to play the game, you have to unban all the banned files (see how in internet), and then download this version as listed above.
+If you have downloaded the last version of the game incorrectly, your antivirus has most probaby blocked
+it. In order to play the game, you have to unban all the banned files (see how in the internet), and then download this version as listed above.
