@@ -1,0 +1,38 @@
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.exe
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.deps.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.runtimeconfig.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Console Snake.pdb
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\FireSharp.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\FireSharp.Serialization.JsonNet.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.CopyComplete
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.pdb
+C:\Users\Alex\source\repos\Snake b2\Console Snake\obj\Release\netcoreapp3.1\Console Snake.genruntimeconfig.cache
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.exe
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.deps.json
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.runtimeconfig.dev.json
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Console Snake.pdb
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\FireSharp.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\FireSharp.Serialization.JsonNet.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.dll
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.pdb
+C:\Users\Alex\Documents\GitHub\Console-Snake\Console Snake\obj\Release\netcoreapp3.1\Console Snake.genruntimeconfig.cache

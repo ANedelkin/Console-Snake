@@ -1,0 +1,18 @@
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.exe
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.deps.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.runtimeconfig.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Console Snake FB.pdb
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\FireSharp.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\FireSharp.Serialization.JsonNet.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.dll
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.pdb
+C:\Users\Alex\source\repos\Snake b2\Console Snake FB\obj\Debug\netcoreapp3.1\Console Snake FB.genruntimeconfig.cache
