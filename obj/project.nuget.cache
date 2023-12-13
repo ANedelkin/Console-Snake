@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5G4lOd/BY6LYZ4qjpC2a+kmJPVEdI8kzY641IpKB7ClWl2GdFOOCZxFLrJY3cvPHeldxBneOIel38yh5u/EjQ==",
+  "dgSpecHash": "0vbfdv/8yHT/FxrW54SXr9JhPaaUa2U9WnmfnGDNWNkcK5u6eHLs383xwHHfV+bnUujFfXQAZ4iJUP/SM5Fqzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake\\Console Snake.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\firesharp\\1.1.0\\firesharp.1.1.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\firesharp.serialization.jsonnet\\1.1.0\\firesharp.serialization.jsonnet.1.1.0.nupkg.sha512",

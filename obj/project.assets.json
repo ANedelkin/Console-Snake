@@ -138,11 +138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake\\Console Snake.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake.csproj",
       "projectName": "Console Snake",
-      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake\\Console Snake.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\Console Snake\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Console-Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
